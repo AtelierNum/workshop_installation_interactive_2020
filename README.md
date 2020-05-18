@@ -13,7 +13,7 @@ L'ensemble des vidéos de présentation des projets est disponible [ici](https:/
 
 Ce workshop a été encadré par [Benjamin Carrier](https://www.instagram.com/benjarier/)
 
-
+---
 ## A-bis
 
 Réalisé par : Marie Jollivet, Hugo Prevost, Clara Mahe, Noémie El kholti.
@@ -31,6 +31,22 @@ De plus à chaque fois qu’une forme apparaît sur l’écran de projection,
 [Cahier de recherche](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/A-bis/documentation.pdf)
 
 [Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/A-bis/presentation.pdf)
+
+---
+## Nosc
+
+Réalisé par : Raphaël Perraud, Théo Geiller, Elliot Chevalier, Ronan Chopineaux.
+
+![](Nosc/nosc.gif)
+
+Nous avons travaillé sur une installation interactive qui serait controllée par le téléphone du visiteur.
+
+Celui-ci aura la possibilité en entrant dans le dispositif de connecter son téléphone pour envoyer au programme des données provenant de l'accéléromètre. 
+
+Ces données seront alors utiliser pour moduler l'environnement sonore et musical contrôllé par Abbleton Live ainsi que la projection générée par Touch Designer.
+
+
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Nosc/presentation.pdf)
 
 
 
