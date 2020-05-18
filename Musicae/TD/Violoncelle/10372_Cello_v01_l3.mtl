@@ -1,0 +1,22 @@
+# 
+# Wavefront material file
+# Converted by the DEEP Exploration  Deep Exploration 6.1 x64 6.1.2.6638
+# Right Hemisphere, LTD
+# http://www.righthemisphere.com/
+# 
+
+newmtl _3___Default
+Ka 1 1 1
+Kd 0.588235 0.588235 0.588235
+Ks 0.311569 0.28549 0.264902
+illum 2
+Ns 24
+map_Kd 10372_Cello_v01.jpg
+map_bump 
+bump 
+map_opacity 
+map_d 
+refl 
+map_kS 
+map_kA 10372_Cello_v01.jpg
+map_Ns 

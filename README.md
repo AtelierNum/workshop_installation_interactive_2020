@@ -79,6 +79,25 @@ Le dispositif est entièrement génératif. L'utilisateur est acteur de la modif
 
 [Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Ilot/presentation.pdf)
 
+---
+## Musicae
+
+Réalisé par : Jeanne Verstraete, Aurore Tanguy, Marie Sandevoir et Meriem Gharbi.
+
+![](Musicae/musicae.gif)
+
+Notre projet consiste à faire une scénographie pour un concert de musique classique. Nous avons cherché à augmenter l’expérience qu’on aurait pu avoir dans une salle comme un opéra ou un théâtre.
+
+On s’est demandé comment assister un orchestre et accompagné la musique ? Comment donner une expérience plus mémorable, plus forte ?
+
+Avec nos veilles et nos recherches, on c’est rendu compte que donner une impression d’animation à 360° serait un bon de moyen d’arriver à notre objectif.
+
+Pour meneer le projet, on choisit la Valse “Waltz No. 2” de Dimitri Chostakovich. C’est une musique très connue dansante et très rythmée.
+
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Ilot/presentation.pdf)
+
+
+
 
 
 
