@@ -1,7 +1,7 @@
 # workshop_installation_interactive_2020
 This repo holds the code and documentation for the creative coding workshop @lecolededesign. Production were made by students in 4nd year of interaction design using [Touch Designer](https://derivative.ca/). The **code** is available [github](https://github.com/AtelierNum/workshop_installation_interactive_2020)
 
-Full videos are available [here](https://github.com/AtelierNum/workshop_installation_interactive/releases/tag/1.0).
+Full videos are available [here](https://github.com/AtelierNum/workshop_installation_interactive_2020/releases/tag/1.0).
 
 This workshop was hosted by [Benjamin Carrier](https://www.instagram.com/benjarier/)
 
@@ -9,28 +9,34 @@ This workshop was hosted by [Benjamin Carrier](https://www.instagram.com/benjari
 Cette page regroupe les projets réalisés par les étudiants de troisième année en design d'interaction @lecolededesign, ce workshop a été l'ocasion de découvrir [Touch Designer](https://derivative.ca/). Le code est disponnible sur [github](https://github.com/AtelierNum/workshop_code_creatif_1920)
 
 
-L'ensemble des vidéos de présentation des projets est disponible [ici](https://github.com/AtelierNum/workshop_installation_interactive/releases/tag/1.0)
+L'ensemble des vidéos de présentation des projets est disponible [ici](https://github.com/AtelierNum/workshop_installation_interactive_2020/releases/tag/1.0)
 
 Ce workshop a été encadré par [Benjamin Carrier](https://www.instagram.com/benjarier/)
 
 ---
-## A-bis
+## Scratch Massive
 
-Réalisé par : Marie Jollivet, Hugo Prevost, Clara Mahe, Noémie El kholti.
+Réalisé par : Aurélien Colloc, Simon Heurtebise, Paul Joly, Emilie Schaeffer.
 
-![](A-bis/A-bis.gif)
+![](Scratch_massive/scratch_massive.gif)
 
-Nous avons imaginé une installation interactive qui s'implante dans un espace public, de type gare, et serait accessible à tout public. En effet elle s’adresse à différentes personnes, de tout âge, afin d’initier à l’art interactif. Nous souhaitons proposer un univers singulier.
+Un parcours immersif à travers la musique.
 
-Sur le thème des fonds marins, nous allons mettre en place un écran au sol indiquant, de façon aléatoire, des cercles sur lesquels les utilisateurs pourront se placer afin de faire apparaître des formes sur l’écran de projection se situant en face d’eux.
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Scratch_massive/presentation.pdf)
 
-Les formes représentées sont des formes organiques de sorte à accentuer l’univers du fond marin. En effet, ces formes abstraites rappellent celles des coraux marins.
 
-De plus à chaque fois qu’une forme apparaît sur l’écran de projection, un son se déclenche. Ce dernier variera en fonction de la taille de la personne se situant sur le cercle au sol : plus la personne sera grande, plus le son sera aigu. De cette façon, c’est la taille des personnes qui produit l’interaction sonore.
+---
+## Ilot
 
-[Cahier de recherche](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/A-bis/documentation.pdf)
+Réalisé par : Ulysse Ducamp, Arslan Sifaoui, Robin Exbrayat-Daunay, Lingyi Xia, Yuxiang Li. 
 
-[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/A-bis/presentation.pdf)
+![](Ilot/ilot.gif)
+
+Dans un musée , un lieu de passage, ou un lieu de rencontre ou de repos, cette installation prend la forme d'une banquette monumentale structurant l'espace.
+
+Le dispositif est entièrement génératif. L'utilisateur est acteur de la modification des motifs : la position sur l'assise correspond à une modification d'un paramètre de l'algorithme et l'intensité de la modification dépend du nombre de personnes assises.
+
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Ilot/presentation.pdf)
 
 ---
 ## Nosc
@@ -66,18 +72,6 @@ La réception des lettres est possible par plusieurs moyens : des particuliers 
 
 [Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Pied_d_estale/presentation.pdf)
 
----
-## Ilot
-
-Réalisé par : Ulysse Ducamp, Arslan Sifaoui, Robin Exbrayat-Daunay, Lingyi Xia, Yuxiang Li. 
-
-![](Ilot/ilot.gif)
-
-Dans un musée , un lieu de passage, ou un lieu de rencontre ou de repos, cette installation prend la forme d'une banquette monumentale structurant l'espace.
-
-Le dispositif est entièrement génératif. L'utilisateur est acteur de la modification des motifs : la position sur l'assise correspond à une modification d'un paramètre de l'algorithme et l'intensité de la modification dépend du nombre de personnes assises.
-
-[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Ilot/presentation.pdf)
 
 ---
 ## Musicae
@@ -98,6 +92,26 @@ Pour meneer le projet, on choisit la Valse “Waltz No. 2” de Dimitri Chostako
 
 [Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Musicae/presentation.pdf)
 
+
+---
+## A-bis
+
+Réalisé par : Marie Jollivet, Hugo Prevost, Clara Mahe, Noémie El kholti.
+
+![](A-bis/A-bis.gif)
+
+Nous avons imaginé une installation interactive qui s'implante dans un espace public, de type gare, et serait accessible à tout public. En effet elle s’adresse à différentes personnes, de tout âge, afin d’initier à l’art interactif. Nous souhaitons proposer un univers singulier.
+
+Sur le thème des fonds marins, nous allons mettre en place un écran au sol indiquant, de façon aléatoire, des cercles sur lesquels les utilisateurs pourront se placer afin de faire apparaître des formes sur l’écran de projection se situant en face d’eux.
+
+Les formes représentées sont des formes organiques de sorte à accentuer l’univers du fond marin. En effet, ces formes abstraites rappellent celles des coraux marins.
+
+De plus à chaque fois qu’une forme apparaît sur l’écran de projection, un son se déclenche. Ce dernier variera en fonction de la taille de la personne se situant sur le cercle au sol : plus la personne sera grande, plus le son sera aigu. De cette façon, c’est la taille des personnes qui produit l’interaction sonore.
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/A-bis/documentation.pdf)
+
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/A-bis/presentation.pdf)
+
 ---
 ## Colla Draw
 
@@ -112,9 +126,6 @@ Chaque dessin s’ajoute l’un sur l’autre et disparaît petit à petit pou
  
 
 [Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Colla_draw/presentation.pdf)
-
-
-
 
 
 
