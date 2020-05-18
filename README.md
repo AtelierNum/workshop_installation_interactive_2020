@@ -94,7 +94,9 @@ Avec nos veilles et nos recherches, on c’est rendu compte que donner une impre
 
 Pour meneer le projet, on choisit la Valse “Waltz No. 2” de Dimitri Chostakovich. C’est une musique très connue dansante et très rythmée.
 
-[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Ilot/presentation.pdf)
+[Cahier de recherches](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Musicae/documentation.pdf)
+
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Musicae/presentation.pdf)
 
 
 
