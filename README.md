@@ -28,9 +28,9 @@ Les formes représentées sont des formes organiques de sorte à accentuer l�
 
 De plus à chaque fois qu’une forme apparaît sur l’écran de projection, un son se déclenche. Ce dernier variera en fonction de la taille de la personne se situant sur le cercle au sol : plus la personne sera grande, plus le son sera aigu. De cette façon, c’est la taille des personnes qui produit l’interaction sonore.
 
-[Cahier de recherche](https://github.com/AtelierNum/workshop_code_creatif_1920/blob/master/A-bis/documentation.pdf)
+[Cahier de recherche](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/A-bis/documentation.pdf)
 
-[Présentation](https://github.com/AtelierNum/workshop_code_creatif_1920/blob/master/A-bis/presentation.pdf)
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/A-bis/presentation.pdf)
 
 
 
