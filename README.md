@@ -49,6 +49,24 @@ Ces données seront alors utiliser pour moduler l'environnement sonore et musica
 [Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Nosc/presentation.pdf)
 
 
+---
+## Pied d'estale
+
+Réalisé par : Julie Thierry, Léa Genais, Luna Martel et Juliette Herlem.
+
+![](Pied_d_estale/pied_d_estale.gif)
+
+Plusieurs personnes peuvent interagir avec le cube en touchant les différents capteurs NFC présents autour du cube (sur des piliers). À cet instant, l'une des lettres filantes se rapproche du visiteur puis se dissipe de façon à avoir l'impression que celle-ci s'est infiltrée dans le téléphone du visiteur. Il reçevra un message "Dans 24 heure, vous recevrez une lettre de M.Dupui. ", puis le lendemain, celle-ci se débloquera. Il aura ainsi la possibilité de voir la lettre d'origine, le texte retapé à l'ordi, le contexte de la lettre, la traduction et enfin il a aussi la possibilité de l'écouter et de la partager.
+
+
+La réception des lettres est possible par plusieurs moyens : des particuliers qui envoient leurs lettres mais aussi des lettres célèbres qu'on peut retrouver dans des musées, etc …
+
+
+[Cahier de recherche](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Pied_d_estale/documentation.pdf)
+
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Pied_d_estale/presentation.pdf)
+
+
 
 
 
