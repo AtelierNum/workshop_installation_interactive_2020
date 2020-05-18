@@ -98,6 +98,21 @@ Pour meneer le projet, on choisit la Valse “Waltz No. 2” de Dimitri Chostako
 
 [Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Musicae/presentation.pdf)
 
+---
+## Colla Draw
+
+Réalisé par : Allan Guégan, Alice Briolat, Victor Pérouse et Zoé Pan. 
+
+![](Colla_draw/Colla_draw.gif)
+
+Mettre en place une toile géante où il y sera projeté ce que les spectateurs souhaitent dessiner. À l’aide de son téléphone, chaque participant va pouvoir se connecter à une borne afin de dessiner.
+Les artistes pourront alors se mettre en place et vont pouvoir dessiner, créer, seul ou en collaboration.
+
+Chaque dessin s’ajoute l’un sur l’autre et disparaît petit à petit pour laisser place à de nouvelle oeuvre permettant d’offrir une oeuvre collaborative qui ne s’éteint jamais.
+ 
+
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Colla_draw/presentation.pdf)
+
 
 
 
