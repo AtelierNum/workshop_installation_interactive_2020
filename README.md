@@ -66,6 +66,18 @@ La réception des lettres est possible par plusieurs moyens : des particuliers 
 
 [Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Pied_d_estale/presentation.pdf)
 
+---
+## Ilot
+
+Réalisé par : Ulysse Ducamp, Arslan Sifaoui, Robin Exbrayat-Daunay, Lingyi Xia, Yuxiang Li. 
+
+![](Ilot/ilot.gif)
+
+Dans un musée , un lieu de passage, ou un lieu de rencontre ou de repos, cette installation prend la forme d'une banquette monumentale structurant l'espace.
+
+Le dispositif est entièrement génératif. L'utilisateur est acteur de la modification des motifs : la position sur l'assise correspond à une modification d'un paramètre de l'algorithme et l'intensité de la modification dépend du nombre de personnes assises.
+
+[Présentation](https://github.com/AtelierNum/workshop_installation_interactive_2020/blob/master/Ilot/presentation.pdf)
 
 
 
